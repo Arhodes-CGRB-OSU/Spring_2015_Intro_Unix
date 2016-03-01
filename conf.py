@@ -41,7 +41,7 @@ extensions = [
 ]
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['ytemplates']
+templates_path = ['_templates']
 
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
@@ -52,7 +52,7 @@ source_suffix = '.rst'
 #source_encoding = 'utf-8-sig'
 
 # The master toctree document.
-master_doc = 'Create_HTML'
+master_doc = 'index'
 
 # General information about the project.
 project = u'Creating an HTML from reST'
@@ -128,7 +128,7 @@ html_theme = 'basicstrap'
 #html_theme_options = {}
 html_theme_options = {
   'inner_theme': True,
-  'inner_theme_name': 'bootswatch-cerulean',
+  'inner_theme_name': 'bootswatch-cosmo',
 }
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = []
@@ -152,7 +152,7 @@ html_theme_options = {
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['ystatic']
+html_static_path = ['_static']
 
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
