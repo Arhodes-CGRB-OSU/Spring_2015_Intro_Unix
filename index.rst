@@ -1,7 +1,17 @@
-	###################
-	My project's index
-	###################
+.. toctree::
+	:maxdepth: 2
+	:numbered:
+	:titlesonly:
+	:glob:
+	:hidden:
 	
-	If your are lost, here is where to start:
+	README.rst
+	other.rst
+
+###################
+My project's index
+###################
 	
-	.. :doc: README.rst
+If your are lost, here is where to start:
+	
+
