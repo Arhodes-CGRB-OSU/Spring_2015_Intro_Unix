@@ -1,0 +1,5 @@
+https://pypi.python.org/packages/py2.py3/p/pip/pip-8.0.3-py2.py3-none-any.whl#md5=b234250205337ff67967dff300001e3d
+https://pypi.python.org/packages/2.7/S/Sphinx/Sphinx-1.3.5-py2.py3-none-any.whl#md5=ee41d9921df3f251bff900a60d608f9b
+https://pypi.python.org/packages/2.7/P/Pygments/Pygments-2.1-py2-none-any.whl#md5=cc82b28005bae9b0e13c95afbe2ec1bc
+sphinx-rtd-theme==0.1.8
+sphinxjp.themes.basicstrap==0.4.3
